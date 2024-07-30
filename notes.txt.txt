@@ -1,0 +1,15 @@
+JAVA 
+JRE
+JVM
+Input stream
+output stream
+error stream
+wrapper classes
+String class
+string pool
+Garbage collection
+string - mutable /nonmutable (string buffer and builder)
+equals and hashcode
+Super and new in java
+constructor
+final, finally, finalised difference
