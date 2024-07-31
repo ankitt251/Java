@@ -1,4 +1,4 @@
-package Day1;
+package July30;
 
 public class Question3 {
     public static void result(){

@@ -1,4 +1,4 @@
-package Day1;
+package July30;
 public class Question2 {
 
     public static void perimeter(int a,int b,int c){

@@ -1,4 +1,6 @@
-JAVA 
+What is JAVA : - Java is programming language and computing platform. Java applications combine the Java Runtime and application together. Platform Independent.
+Java Environment:- 
+JRE, JDK, JVM - Platform Dependent.
 JRE
 JVM
 Input stream
